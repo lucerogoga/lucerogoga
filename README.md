@@ -7,9 +7,9 @@
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me :
 
-👩‍💻 Frontend Engineer sharing my journey and learning <br/>
-🌱 I'm currently learning Vue 3, Flutter. <br/>
-📍 Based on Seattle .<br/>
+👩‍💻 Frontend Engineer sharing my journey and learning. <br/>
+📍 Based on Seattle. <br/>
+🌱 I'm currently learning Vue 3. <br/>
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Lucerogoga-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/lucero-gonzales-gandolfo/))
 
 ### :hammer_and_wrench: Languages and Tools :
