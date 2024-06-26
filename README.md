@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+ Hi I'm Lucero Gonzales
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h1>
 
-<!--
-**lucerogoga/lucerogoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Frontend Engineer sharing my journey and learning <br/>
+🌱 I'm currently learning Vue 3, Flutter. <br/>
+📍 Based on Seattle .<br/>
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Lucerogoga-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/lucero-gonzales-gandolfo/))
+
+### :hammer_and_wrench: Languages and Tools :
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nextjs,nuxtjs,ts,redux,materialui,sass,tailwind,mysql,firebase,cypress,nodejs,npm,postman,figma,ai,github,git,vercel,vite&perline=12" />
+  </a>
+</p>
+
+### :fire: My Stats :
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucerogoga&layout=compact&title_color=FFC0CB&text_color=e7e7e7&icon_color=FFC0CB&border_color=FFC0CB&bg_color=0D1117)
+
+### :fire: Featured :
+
+<p align="center">
+<a href="https://github.com/lucerogoga/Woow">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lucerogoga&repo=Woow&border_color=FFC0CB&bg_color=0D1117&title_color=FFC0CB&text_color=8B949E&icon_color=FFC0CB" />
+</a>
+
+<a href="https://github.com/lucerogoga/YAMI-LIM016-social-network">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lucerogoga&repo=YAMI-LIM016-social-network&border_color=FFC0CB&bg_color=0D1117&title_color=FFC0CB&text_color=8B949E&icon_color=FFC0CB" />
+</a>
+</p>
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<div/>
