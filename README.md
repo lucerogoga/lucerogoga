@@ -37,8 +37,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/lucerogoga/mini-store">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lucerogoga&repo=mini-store&border_color=FFC0CB&bg_color=0D1117&title_color=FFC0CB&text_color=8B949E&icon_color=FFC0CB" />
+<a href="https://github.com/lucerogoga/Mini-Cart-Store">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lucerogoga&repo=Mini-Cart-Store&border_color=FFC0CB&bg_color=0D1117&title_color=FFC0CB&text_color=8B949E&icon_color=FFC0CB" />
 </a>
 
 <a href="https://github.com/lucerogoga/Data-lovers-POKECOMPANY">
