@@ -36,6 +36,15 @@
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/lucerogoga/mini-store">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lucerogoga&repo=mini-store&border_color=FFC0CB&bg_color=0D1117&title_color=FFC0CB&text_color=8B949E&icon_color=FFC0CB" />
+</a>
+
+<a href="https://github.com/lucerogoga/Data-lovers-POKECOMPANY">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lucerogoga&repo=Data-lovers-POKECOMPANY&border_color=FFC0CB&bg_color=0D1117&title_color=FFC0CB&text_color=8B949E&icon_color=FFC0CB" />
+</a>
+</p>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
