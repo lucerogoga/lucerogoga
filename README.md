@@ -8,7 +8,7 @@
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me :
 
 👩‍💻 Frontend Engineer sharing my journey and learning. <br/>
-📍 Based on Seattle. <br/>
+📍 Based on Peru. <br/>
 🌱 Love learning new languages, I'm currently learning vue 3, nodejs, playground. <br/>
 📫 How to reach me: lucerogoga@icloud.com
 
